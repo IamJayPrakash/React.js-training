@@ -1,0 +1,8 @@
+body {
+  background-color: aqua;
+  font-family: lobster, cursive;
+  color: azure;
+  background-image: url("https://picsum.photos/2000/1000");
+  background-position: cover;
+  background-repeat: no-repeat;
+}

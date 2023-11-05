@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(7, 8, 8);
+  font-family: lobster, cursive;
+  /* color: rgb(4, 184, 136); */
+  background-image: url("https://picsum.photos/2000/1000");
+  background-position: cover;
+  background-repeat: no-repeat;
+}
+
+.heading {
+  border: 3px dotted rgb(44, 48, 48);
+}
